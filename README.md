@@ -1,8 +1,12 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-###
+I'm Umut, a Software Test Engineer with a strong foundation in business analysis and cybersecurity.
 
-Test Engineer
+My journey in the tech world with a software development internship at [**@KoçSistem**](https://github.com/kocsistem). After that, I worked for two years as a Business Analyst & E-commerce Specialist, where I gained valuable experience in online business processes, user behavior, and digital transformation.
+
+I'm particularly interested in delivering high-quality, user-focused products while keeping an eye on system performance, security, and automation. I believe in the power of curiosity and continuous improvement.
+
+Outside of tech, I enjoy exploring psychology, writing on Medium, and following the latest in science and digital art.
 
 ###
 
